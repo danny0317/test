@@ -164,11 +164,11 @@ int main(void) {
         i++;
         // cout<<FORCE.FT("Fx")<<" ";
         // cout<<FORCE.FT("Fy")<<" ";
-        cout<<FORCE.FT("Fz")<<" ";
+//         cout<<FORCE.FT("Fz")<<" ";
         // cout<<FORCE.FT("Tx")<<" ";
         // cout<<FORCE.FT("Ty")<<" ";
         // cout<<FORCE.FT("Tz")<<" ";
-        cout<<endl;
+//         cout<<endl;
         // out<<FORCE.FT("Fz")<<endl;
 
     }
